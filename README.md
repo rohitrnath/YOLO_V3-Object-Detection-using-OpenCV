@@ -13,4 +13,4 @@ The main objective of this project is to -
 
 ## Output
 
-![Annotated Image Output](https://github.com/rohitrnath/YOLO_V3-Object-Detection-using-OpenCV/blob/master/test2_detected.jpg)
+![Annotated Image Output](https://github.com/rohitrnath/YOLO_V3-Object-Detection-using-OpenCV/blob/master/tes2_detected.jpg)
