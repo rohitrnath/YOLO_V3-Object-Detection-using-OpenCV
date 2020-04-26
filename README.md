@@ -9,8 +9,8 @@ The main objective of this project is to -
 
 ## Test Image
 
-![Image with multiple objects](https://github.com/rohitrnath/)
+![Image with multiple objects](https://github.com/rohitrnath/YOLO_V3-Object-Detection-using-OpenCV/blob/master/test2.jpg)
 
 ## Output
 
-![Annotated Image Output](https://github.com/rohitrnath/)
+![Annotated Image Output](https://github.com/rohitrnath/YOLO_V3-Object-Detection-using-OpenCV/blob/master/test2_detected.jpg)
